@@ -1,0 +1,1 @@
+1. Application python-application has been successfully deployed!!
